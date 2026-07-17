@@ -1,4 +1,3 @@
-.codex/
 .env
 .pytest_cache/
 .coverage
@@ -8,4 +7,3 @@ __pycache__/
 *.egg-info/
 .venv/
 var/
-
